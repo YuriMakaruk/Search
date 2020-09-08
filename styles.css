@@ -1,0 +1,20 @@
+h2 {
+    text-align: right;
+}
+form {
+    text-align: center;
+
+}
+
+.baz {
+    background-color: blue;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+}
